@@ -5,6 +5,6 @@
 	<title>CCPTPM</title>
 </head>
 <body>
-	<label>Hỏi mà ai cũng im thế nhỉ?</label>
+	<label>Hỏi mà ai cũng im thế nhỉ? Hello mấy bạn!</label>
 </body>
 </html>
