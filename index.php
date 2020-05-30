@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Haha cái gì mà haha</title>
+	<title>Thích cười không</title>
 
 </head>
 <body>
