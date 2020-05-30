@@ -1,3 +1,3 @@
 <?php 
-if(Session["Usernam"])
+if(Session["Username"])
  ?>
