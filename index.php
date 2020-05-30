@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>CCPTPM</title>
+	<title>BÁO CÁO ĐỒ ÁN MÔN HỌC</title>
 </head>
 <body>
 	<label>Hỏi mà ai cũng im thế nhỉ?</label>
