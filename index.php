@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 
-	<title>Haha cái gì mà haha, thì sao!</title>
+	<title>Haha cái gì mà haha, thì sao! Alo</title>
 
 
 </head>
